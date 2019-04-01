@@ -10,6 +10,7 @@ public class Test {
   //git checkout --   撤销修改
   //我在master分支
   //我在bugFix分支
+  //我在bugfix
 }
 
 
