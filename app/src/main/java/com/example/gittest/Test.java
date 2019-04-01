@@ -6,6 +6,8 @@ package com.example.gittest;
 public class Test {
 
   //commit -a -m
+  //git checkout --   撤销修改
+  //git checkout --   撤销修改
 }
 
 
