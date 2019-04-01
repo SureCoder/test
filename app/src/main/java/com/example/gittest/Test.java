@@ -8,6 +8,7 @@ public class Test {
   //commit -a -m
   //git checkout --   撤销修改
   //git checkout --   撤销修改
+  //我在master分支
 }
 
 
