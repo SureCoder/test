@@ -14,6 +14,10 @@ public class Test {
   @Override public int hashCode() {
     return super.hashCode();
   }
+
+  @Override public boolean equals(@androidx.annotation.Nullable Object obj) {
+    return super.equals(obj);
+  }
 }
 
 
