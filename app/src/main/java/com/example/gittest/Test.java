@@ -17,6 +17,7 @@ public class Test {
   }
   //client
   //new branch 新分支
+  //我在hot fix 分支
 
   @Override public int hashCode() {
     return super.hashCode();
