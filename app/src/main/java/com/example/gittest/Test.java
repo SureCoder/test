@@ -10,6 +10,10 @@ public class Test {
   //git checkout --   撤销修改
   //我在master分支
   //我在hot fix 分支
+
+  @Override public int hashCode() {
+    return super.hashCode();
+  }
 }
 
 
