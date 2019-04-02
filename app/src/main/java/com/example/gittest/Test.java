@@ -25,6 +25,10 @@ public class Test {
   @Override public boolean equals(@androidx.annotation.Nullable Object obj) {
     return super.equals(obj);
   }
+
+  @Override protected Object clone() throws CloneNotSupportedException {
+    return super.clone();
+  }
 }
 
 
