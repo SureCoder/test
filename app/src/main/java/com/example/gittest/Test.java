@@ -12,6 +12,12 @@ public class Test {
   //我在hot fix 分支
   //我在bugFix分支
   //我在bugfix
+
+  @androidx.annotation.NonNull @Override public String toString() {
+    return super.toString();
+  }
 }
+
+
 
 
