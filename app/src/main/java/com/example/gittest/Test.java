@@ -12,7 +12,7 @@ public class Test {
   //我在hot fix 分支
   //我在bugFix分支
 
-  @androidx.annotation.NonNull @Override public String toString() {
+   @Override public String toString() {
     return super.toString();
   }
   //client
@@ -23,7 +23,7 @@ public class Test {
     return super.hashCode();
   }
 
-  @Override public boolean equals(@androidx.annotation.Nullable Object obj) {
+  @Override public boolean equals( Object obj) {
     return super.equals(obj);
   }
 
