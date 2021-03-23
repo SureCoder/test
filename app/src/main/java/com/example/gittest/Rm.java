@@ -5,9 +5,14 @@ package com.example.gittest;
  */
 public class Rm {
   
+<<<<<<< HEAD
   one
   2
   3
   4
   5
+=======
+study
+  
+>>>>>>> study
 }
